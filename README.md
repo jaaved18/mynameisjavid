@@ -1,2 +1,0 @@
-# mynameisjavid
-gethub basics
